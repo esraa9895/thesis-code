@@ -18,8 +18,9 @@ Quasi-Newton Methods
 BFGS Optimization
 
 ## Numerical Example
-Rosenbrock function: A classic non-convex problem  with a narrow
-EG2 function: A periodic function with multiple local minima from the CUTE test collection that tests robustness and global convergence properties
+- Rosenbrock function:  A classic non-convex problem  with a narrow
+
+- EG2 function:  A periodic function with multiple local minima from the CUTE test collection that tests robustness and global convergence properties
 
 ## Dataset
 Real-world regression datasets 
@@ -50,11 +51,12 @@ Matplotlib
 Scikit-learn
 
 ## Repository Structure
-notebooks/ : BFGS_modify_multi_Dimantion.ipynb
-             different_methods.ipynb
-             regression_BFGS.ipynb
-data/ : elo-merchant-category-recommendation
-results/ : outputs and visualizations
+- notebooks/ :
+   -  BFGS_modify_multi_Dimantion.ipynb
+   - different_methods.ipynb
+   - regression_BFGS.ipynb
+- data/ : elo-merchant-category-recommendation
+- results/ : outputs and visualizations
 
 ## Author
 Esraa Said
