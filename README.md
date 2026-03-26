@@ -24,12 +24,12 @@ EG2 function: A periodic function with multiple local minima from the CUTE test 
 ## Dataset
 Real-world regression datasets 
 The dataset used in this project may include:
-      > remote-worker-productivity: 
+ ### remote-worker-productivity: 
           hf://datasets/nprak26/remote-worker-productivity/remote_work_productivity.csv
           https://huggingface.co/datasets/nprak26/remote-worker-productivity
-      > elo-merchant-category-recommendation from Kaggle:  
+### elo-merchant-category-recommendation from Kaggle:  
           https://www.kaggle.com/competitions/elo-merchant-category-recommendation
-      > Ammok/apple_stock_price_from_1980-2021: 
+### Ammok/apple_stock_price_from_1980-2021: 
             hf://datasets/Ammok/apple_stock_price_from_1980-2021/AAPL.csv
             https://www.kaggle.com/datasets/meetnagadia/apple-stock-price-from-19802021.
             https://huggingface.co/datasets/Ammok/apple_stock_price_from _1198-2021
@@ -56,10 +56,9 @@ notebooks/ : BFGS_modify_multi_Dimantion.ipynb
 data/ : elo-merchant-category-recommendation
 results/ : outputs and visualizations
 
-##Author
+## Author
 Esraa Said
 Master’s Student in Scientific computing
 
-📌 Notes
-
+ Notes
 This project is part of ongoing research and may be updated with additional experiments and improvements.
